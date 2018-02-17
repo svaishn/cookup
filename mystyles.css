@@ -1,0 +1,80 @@
+
+body{
+	background-color:white;
+}
+.navbar{
+border:0;
+}
+.b,.c{
+	background-color:#CB2B30;
+	border:0;}
+.head1{
+	color:white;
+	font-size: 25px;
+
+}
+.feature{
+	font-size: 50px;
+	color:#CB2B30;
+}
+.subscribe{
+	background-color:#CB2B30;
+	color:white;
+	padding:30px;
+
+}
+label{
+	color:#CB2B30;
+	font-size: 20px;
+}
+.mat{
+	font-size: 20px;
+	padding:30px;
+}
+.mat2{
+	font-size: 40px;
+	padding:30px;}
+.mat1{
+	font-size: 25px;
+	padding:30px;
+}
+#a1{
+	color:white;
+}
+.jumbotron{
+    background-image:url("images/cover3.jpg");
+	background-size: cover;
+	/*background-color:#cc0000;*/
+	height:400px;
+	color:white;
+    margin:auto;}
+li > a{
+   color:white;
+}
+.container-fluid{
+margin:0;
+}
+/*h1{
+	background:black;
+	padding:20px;
+	opacity:0.6;
+}*/
+/*#caption{
+	background:black;
+	padding:30px;
+	opacity:0.6;
+	margin:auto;
+	height:300px;
+	width:100%;
+	position:absolute;
+	}*/
+#cap{
+z-index:10;
+
+}
+.navbar{
+	margin:auto;
+}
+h1{
+	font-size: 80px;
+}
